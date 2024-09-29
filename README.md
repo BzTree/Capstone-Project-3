@@ -16,6 +16,8 @@ In building the ML model, the processing of the dataset can be summarized as fol
 - The models per attempt are compared, and the best model is explained, its limitations put down and its benefits visualized.
 - There are recommendations on future iterations of the model as well as the business if they used the current model as is.
 
+Note: the .ipynb was first built in Google Colab and then only the markdowns were edited in VSCode, though it has also been tested in the latter.
+
 This project also has a video presentation found in the link below.
 
 The file (in Google Colab) and presentation (both the file and video presentation) is also available in this Google Drive: https://drive.google.com/drive/folders/1WWJopsnzgc1w2hw821fv60TyqFBB6ViD?usp=sharing
