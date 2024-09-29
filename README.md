@@ -11,7 +11,10 @@ The following files are available in this repository:
 In building the ML model, the processing of the dataset can be summarized as follows:
 
 - The dataset has info on the churn of customers as well as various data that can be used to predict future churn.
-- 
+- The dataset contains two attempts: the one that assumes outliers according to the IQR and DBSCAN method (combined, because neither has detected outliers) and the Isolation Forest method.
+- For each attempt, the notebook describes the data preparation, tests for the best resampler, feature selector and model + hyperparameters for each attempt.
+- The models per attempt are compared, and the best model is explained, its limitations put down and its benefits visualized.
+- There are recommendations on future iterations of the model as well as the business if they used the current model as is.
 
 This project also has a video presentation found in the link below.
 
