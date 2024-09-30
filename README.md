@@ -8,6 +8,7 @@ Added a Version 2 of the .ipynb file, which has the following changes:
 - Modified the second and third recommendations to the business to better tie it to the monetary calculations of the ML model made just before this segment.
 - Duplicated a copy of the model's limitations to the summary for reader's convenience.
 - Added a very brief explanation of the recall score at the beginning of the file which is relevant to the context of the project.
+- Added the limitation of the 'Contract' column to the list of limitations.
 
 The previous file is not deleted, hence both files can be accessed.
 
