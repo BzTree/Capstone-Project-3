@@ -5,7 +5,7 @@ Updated Version 2 of the .ipynb file, which has the following changes:
 
 - No code was changed. Only comments and markdowns were edited.
 - Removed all comments except for ones on the CNN and NCR Rebalancing methods (kept there to show that they were considered but not used for the sake of time).
-- Added a reason why both IQR & DBSCAN (together) and Isolation Forest outlier detection and relevant cleaning methodologies are considered in developing the model just after the scatterplot.
+- Added a reason (just after the scatterplot) on why both IQR & DBSCAN (together) and Isolation Forest outlier detection and relevant cleaning methodologies are considered in developing the model.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
