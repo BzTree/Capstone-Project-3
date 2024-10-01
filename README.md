@@ -1,9 +1,17 @@
 # Capstone-Project-3
 
 ## Edit on 1/10/2024:
+Updated Version 2 of the .ipynb file, which has the following changes:
+
+- No code was changed. Only comments were edited.
+- Removed all comments except for ones on the CNN and NCR Rebalancing methods (kept there to show that they were considered but not used for the sake of time).
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+## Edit on 30/9/2024:
 Added a Version 2 of the .ipynb file, which has the following changes:
 
-- No code was changed. Only markdowns and comments were edited.
+- No code was changed. Only markdowns were modified.
 - Removed the 'remove two-year subscription' recommendation to the business, but kept the other recommendation related to this subscription length, given the high importance of the feature in the evaluation stage of this model.
 - Modified the second and third recommendations to the business to better tie it to the monetary calculations of the ML model made just before this segment.
 - Duplicated a copy of the model's limitations to the summary for reader's convenience.
@@ -11,7 +19,6 @@ Added a Version 2 of the .ipynb file, which has the following changes:
 - Added the reason Machine Learning was used for making the model at the beginning of the .ipynb notebook.
 - Added the limitation of the 'Contract' column to the list of limitations.
 - Added a reason why both IQR & DBSCAN (together) and Isolation Forest outlier detection and relevant cleaning methodologies are considered in developing the model.
-- Removed all comments except for ones on the CNN and NCR Rebalancing methods (kept there to show that they were considered but not used for the sake of time).
 
 The previous file is not deleted, hence both files can be accessed.
 
