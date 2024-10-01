@@ -10,6 +10,7 @@ Added a Version 2 of the .ipynb file, which has the following changes:
 - Added a very brief explanation of the recall score at the beginning of the file which is relevant to the context of the project.
 - Added the reason Machine Learning was used for making the model at the beginning of the .ipynb notebook.
 - Added the limitation of the 'Contract' column to the list of limitations.
+- Added a reason why both IQR & DBSCAN (together) and Isolation Forest outlier detection and relevant cleaning methodologies are considered in developing the model.
 - Removed all comments except for ones on the CNN and NCR Rebalancing methods (kept there to show that they were considered but not used for the sake of time).
 
 The previous file is not deleted, hence both files can be accessed.
